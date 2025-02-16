@@ -128,16 +128,8 @@ body {
     transition: 0.3s;
 }
 
-.delete-btn {
-    color: #e74c3c;
-}
-
 .delete-btn:hover {
     transform: scale(1.2);
-}
-
-.edit-btn {
-    color: #2980b9;
 }
 
 .edit-btn:hover {
